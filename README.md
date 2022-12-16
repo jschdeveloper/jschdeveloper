@@ -9,6 +9,9 @@ I'm a software engineer and I live in Barcelona, Spain. I'm working at ISM and I
  - MongoDB, Mysql - (Jooq and Morphia)
  - Jasper Report and Apache POI
  - Maven 
+ - Git - Gitkraken/fork
+ - HTML + CSS
+ - Eclipse + Visual Studio code
 
 #### Social Networks
 - <a href="https://www.linkedin.com/in/jsanchezch">   Linkedin </a>
